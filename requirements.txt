@@ -1,0 +1,12 @@
+google
+google-api-python-client
+pandas
+pandasql
+google_auth_oauthlib
+flask
+flask_cors
+openai
+pyjwt
+pillow
+flask_sqlalchemy
+email-validator
